@@ -1,4 +1,0 @@
-ID: 1 
-Pin: 123 
-Checking: 4330.5  
-Savings: 5670.0
